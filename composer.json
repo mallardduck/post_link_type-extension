@@ -1,6 +1,10 @@
 {
     "name": "lucidinternets/post_link_type-extension",
     "type": "streams-addon",
+    "require": {
+        "anomaly/streams-platform": "^1.7.0",
+        "anomaly/posts-module": "~2.6.0"
+    },
     "autoload": {
         "psr-4": {
             "Lucidinternets\\PostLinkTypeExtension\\": "src/"
