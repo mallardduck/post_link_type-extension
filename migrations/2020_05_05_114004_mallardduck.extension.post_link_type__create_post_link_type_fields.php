@@ -2,7 +2,7 @@
 
 use Anomaly\Streams\Platform\Database\Migration\Migration;
 
-class LucidinternetsExtensionPostLinkTypeCreatePostLinkTypeFields extends Migration
+class MallardDuckExtensionPostLinkTypeCreatePostLinkTypeFields extends Migration
 {
 
     /**
