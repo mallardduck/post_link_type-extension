@@ -1,11 +1,11 @@
-<?php namespace Lucidinternets\PostLinkTypeExtension;
+<?php namespace MallardDuck\PostLinkTypeExtension;
 
 use Anomaly\NavigationModule\Link\Contract\LinkInterface;
 use Anomaly\NavigationModule\Link\Type\Contract\LinkTypeInterface;
 use Anomaly\NavigationModule\Link\Type\LinkTypeExtension;
 use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
 use Anomaly\PostsModule\Post\Contract\PostInterface;
-use Lucidinternets\PostLinkTypeExtension\Form\PostLinkTypeFormBuilder;
+use MallardDuck\PostLinkTypeExtension\Form\PostLinkTypeFormBuilder;
 
 class PostLinkTypeExtension extends LinkTypeExtension implements LinkTypeInterface
 {

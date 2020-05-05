@@ -1,4 +1,4 @@
-<?php namespace Lucidinternets\PostLinkTypeExtension\Form;
+<?php namespace MallardDuck\PostLinkTypeExtension\Form;
 
 use Anomaly\Streams\Platform\Ui\Form\FormBuilder;
 

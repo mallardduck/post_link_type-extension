@@ -1,6 +1,6 @@
-<?php namespace Lucidinternets\PostLinkTypeExtension;
+<?php namespace MallardDuck\PostLinkTypeExtension;
 
-use Lucidinternets\PostLinkTypeExtension\Contract\PostLinkTypeInterface;
+use MallardDuck\PostLinkTypeExtension\Contract\PostLinkTypeInterface;
 use Anomaly\PostsModule\Post\Contract\PostInterface;
 use Anomaly\Streams\Platform\Model\PostLinkType\PostLinkTypePostsEntryModel;
 

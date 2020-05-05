@@ -1,4 +1,4 @@
-<?php namespace Lucidinternets\PostLinkTypeExtension\Contract;
+<?php namespace MallardDuck\PostLinkTypeExtension\Contract;
 
 use Anomaly\PostsModule\Post\Contract\PostInterface;
 use Anomaly\Streams\Platform\Entry\Contract\EntryInterface;
