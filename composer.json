@@ -1,6 +1,7 @@
 {
     "name": "mallardduck/post_link_type-extension",
     "type": "streams-addon",
+    "license": "MIT",
     "require": {
         "anomaly/streams-platform": "^1.7.0",
         "anomaly/posts-module": "~2.6.0"
