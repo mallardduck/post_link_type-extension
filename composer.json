@@ -1,5 +1,5 @@
 {
-    "name": "lucidinternets/post_link_type-extension",
+    "name": "mallardduck/post_link_type-extension",
     "type": "streams-addon",
     "require": {
         "anomaly/streams-platform": "^1.7.0",
